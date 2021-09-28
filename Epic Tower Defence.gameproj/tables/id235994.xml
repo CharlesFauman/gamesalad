@@ -1,0 +1,38 @@
+<table version="1.000000" name="Tiles" numRows="16" numCols="16">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+        <row id="10" name=""/>
+        <row id="11" name=""/>
+        <row id="12" name=""/>
+        <row id="13" name=""/>
+        <row id="14" name=""/>
+        <row id="15" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="1" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="2" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="3" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="4" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="5" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="6" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="7" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="8" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="9" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="10" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="11" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="12" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="13" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="14" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="15" name="" type="2">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+    </columns>
+</table>

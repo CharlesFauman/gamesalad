@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Game" numRows="1" numCols="1" flags="3719994496" tableType="32666">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="0" readonly="0"></column>
+    </columns>
+</table>
